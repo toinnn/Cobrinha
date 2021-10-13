@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1523336969 source:c:\users\alyson\desktop\programas c ,c++\cobrinha\main.cpp
+	<iostream>
+	"Jogo.h"
+
+1523337776 source:c:\users\alyson\desktop\programas c ,c++\cobrinha\src\cenario.cpp
+	"Cenario.h"
+	<iostream>
+
+1523288570 c:\users\alyson\desktop\programas c ,c++\cobrinha\include\cenario.h
+	<vector>
+	<windows.h>
+
+1523340955 source:c:\users\alyson\desktop\programas c ,c++\cobrinha\src\cobra.cpp
+	"Cobra.h"
+	<vector>
+	<iostream>
+	<windows.h>
+
+1523340955 c:\users\alyson\desktop\programas c ,c++\cobrinha\include\cobra.h
+	<vector>
+	"Comida.h"
+
+1523288570 c:\users\alyson\desktop\programas c ,c++\cobrinha\include\comida.h
+
+1523338106 source:c:\users\alyson\desktop\programas c ,c++\cobrinha\src\comida.cpp
+	"Comida.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1523288611 source:c:\users\alyson\desktop\programas c ,c++\cobrinha\src\jogo.cpp
+	"Jogo.h"
+
+1523368420 c:\users\alyson\desktop\programas c ,c++\cobrinha\include\jogo.h
+	"Cobra.h"
+	"Comida.h"
+	"Cenario.h"
+	<conio.h>
+	<iostream>
+
+1539374074 source:c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\main.cpp
+	<iostream>
+	"Jogo.h"
+
+1539374244 c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\include\jogo.h
+	"Cobra.h"
+	"Comida.h"
+	"Cenario.h"
+	<conio.h>
+	<iostream>
+
+1539374244 c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\include\cobra.h
+	<vector>
+	"Comida.h"
+
+1539374244 c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\include\comida.h
+
+1539374242 c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\include\cenario.h
+	<vector>
+	<windows.h>
+
+1539374240 source:c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\src\cenario.cpp
+	"Cenario.h"
+	<iostream>
+
+1539374238 source:c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\src\cobra.cpp
+	"Cobra.h"
+	<vector>
+	<iostream>
+	<windows.h>
+
+1539374240 source:c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\src\comida.cpp
+	"Comida.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1539374240 source:c:\users\limaa\onedrive\documentos\codeblocks projects\snake\cobrinha\src\jogo.cpp
+	"Jogo.h"
+
